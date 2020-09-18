@@ -10,13 +10,17 @@ Comando  Add:
 1 - git add readme.md (add_print01)
 
 Comando Commit:
-1 - 
+1 - git commit (commit_print01)
 
-comando Push:
+Comando Push:
+1 - git push (push_print01)
 
 Comando Pull:
+1 - git pull (pull_print01)
 
 Comando Fetch: Checkout: 
+1 - git checkout ac2_branch (checkout_print01)
+2 - git checkout ac2_branch (checkout_print02)
 
 
 
